@@ -3,7 +3,7 @@ import '../hojas-de-estilo/Pantalla.css';
 
 const Pantalla = ({ input }) => {
     return (
-        <div>
+        <div className='input'>
             { input }
         </div>
     );
